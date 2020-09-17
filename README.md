@@ -5,9 +5,10 @@ This tool is lit, I just love it.
 
 ### Useful Commands
 
-`gh repo create # here we create a github repository.`
+```bash
+$ gh repo create # here we create a github repository.
 
-`gh repo view # view the readme.md of the current repo` 
+$ gh repo view # view the readme.md of the current repo
 
-`gh repo fork # fork the with a given url`
-
+$ gh repo fork # fork the with a given url
+```
